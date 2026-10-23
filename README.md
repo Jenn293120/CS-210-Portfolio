@@ -6,7 +6,7 @@ C++ programming portfolio for CS 210 at Southern New Hampshire University.
 
 ## Project Summary
 
-For my CS 210 portfolio, I decided to use my Corner Grocer project. In this project, I created a program that helps a grocery store keep track of how often different items are purchased. The program lets someone search for a certain item, see how many times items were purchased, and look at a histogram that shows the results. I used C++ and Python together to get the program to work. The main goal was to make it easier for the store to understand which products customers were buying the most.
+For my CS 210 portfolio, I decided to use my Corner Grocer project. In this project, I created a program that helps a grocery store keep track of how often different items are purchased. The program lets someone search for a certain item, see how many times items were purchased, and look at a histogram that shows the results. I used C++ to get the program to work. The main goal was to make it easier for the store to understand which products customers were buying the most.
 
 ## What I Did Well
 
@@ -18,11 +18,11 @@ There are definitely some things I could improve if I went back and worked on th
 
 ## Challenges I Faced
 
-One of the biggest challenges for me was figuring out how to get C++ and Python to work together. I also had trouble with some of the files and making sure everything was saved in the right place. There were times when I thought I had everything correct, but the program still would not work. I had to go back, look through my code, and figure out what I missed. I used zyBooks, my course resources, and examples to help me understand what I was doing. This project taught me to be patient and not give up just because something does not work the first time.
+One of the biggest challenges for me was figuring out how to get C++ to work together. I also had trouble with some of the files and making sure everything was saved in the right place. There were times when I thought I had everything correct, but the program still would not work. I had to go back, look through my code, and figure out what I missed. I used zyBooks, my course resources, and examples to help me understand what I was doing. This project taught me to be patient and not give up just because something does not work the first time.
 
 ## Skills I Can Use in the Future
 
-I learned quite a bit from working on this project, especially when it comes to writing C++ code, using Python, and working with files. I also got more practice finding errors and fixing problems. Since I am working toward a degree in computer science with a concentration in cybersecurity, I know these skills will help me in future classes and eventually in my career. Understanding how programs work and being able to troubleshoot problems are important skills to have.
+I learned quite a bit from working on this project, especially when it comes to writing C++ code and working with files. I also got more practice finding errors and fixing problems. Since I am working toward a degree in computer science with a concentration in cybersecurity, I know these skills will help me in future classes and eventually in my career. Understanding how programs work and being able to troubleshoot problems are important skills to have.
 
 ## Making My Code Easy to Understand
 
